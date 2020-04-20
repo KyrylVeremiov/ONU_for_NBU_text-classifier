@@ -1,0 +1,4 @@
+﻿Доброе утро, пытаюсь разместить отчет на портале форма 2PX, все как обычно, по шаблону из портала,    пишет ошибку см.ниже:
+Файл не відповідає XSD-схемі 2PX Дані про фінансові операції з нерезидентами. cvc-enumeration-valid: Value U is not facet-valid with respect to enumeration [S]. It must be a value from the enumeration.
+Прошу пояснить проблему, что не так делаю.
+Спасибо.
