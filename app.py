@@ -65,6 +65,7 @@ def analyze_doc():
     except Exception:
         print("document is not available")
         return "Wrong file"
+    print("file: ")
     print(file.readlines())
     #print(file.filename)
     f=open(vaf.analyzingfile,'w')
